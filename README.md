@@ -1,2 +1,2 @@
 # miserver
-mi servidor
+mi servidor de minecraft
